@@ -1,4 +1,4 @@
-## Hotel_Management
+# Hotel_Management
 My C++ assignment project. 
 
 **You have been contracted to build a hotel reservation system. Over the next two mini projects you will build this system. This is the system that hotel desk clerks will use to take desk reservations. This system will also generate and save information to a file. This is the instructions for the first half of this project. To be considered complete the program must work without errors.**
